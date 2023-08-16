@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "start": "ts-node ./test.ts"
+    "start": "ts-node --esm ./test.ts"
   },
   "keywords": [],
   "author": "",

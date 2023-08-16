@@ -1,2 +1,4 @@
-纯 console.log
-不可以有 type module
+# repo step
+
+1. `pnpm i`
+2. `pnpm start`
